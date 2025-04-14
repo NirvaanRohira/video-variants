@@ -1,0 +1,5 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+python-multipart==0.0.5
+ffmpeg-python==0.2.0
+pillow==8.3.2 
